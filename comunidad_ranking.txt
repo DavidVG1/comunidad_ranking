@@ -3,15 +3,15 @@
 # El TIPO_RANKING indica si es Héroe (Histórico Top 3) o Mensual (Rotativo)
 
 # --- HEROES DEL DESARROLLO (TOP 3 HISTÓRICO) ---
-HEROE|1|👑|TecnoFix_Global|985
-HEROE|2|🥈|MasterCell_PE|710
-HEROE|3|🥉|AndroideLibre|495
+HEROE|1|👑|TecnoFix_Global|980
+HEROE|2|🥈|MasterCell|710
+HEROE|3|🥉|AndroideLibre|490
 
 # --- IMPULSORES DEL MES (TOP 20 ROTATIVO) ---
 MENSUAL|4|⭐|TheUnlocker7|150
-MENSUAL|5|⭐|FlashingPeru|125
+MENSUAL|5|⭐|FlashingPeru|120
 MENSUAL|6|⭐|GSM_Fixer|110
-MENSUAL|7|⭐|DataRecovery|95
+MENSUAL|7|⭐|DataRecovery|90
 MENSUAL|8|⭐|TechSolutions_SV|90
 MENSUAL|9|⭐|SmartTool_MX|80
 MENSUAL|10|⭐|ProMobile_GT|75
@@ -27,4 +27,5 @@ MENSUAL|19|⭐|SoftKey_EC|30
 MENSUAL|20|⭐|RepairGuy_DO|25
 MENSUAL|21|⭐|Mobile_PR|20
 MENSUAL|22|⭐|QuickFix_PY|15
+
 MENSUAL|23|⭐|Novato_UY|10
