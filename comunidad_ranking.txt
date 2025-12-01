@@ -3,9 +3,9 @@
 # El TIPO_RANKING indica si es Héroe (Histórico Top 3) o Mensual (Rotativo)
 
 # --- HEROES DEL DESARROLLO (TOP 3 HISTÓRICO) ---
-HEROE|1|👑|Sin usuario|50
-HEROE|2|🥈|Sin usuario|10
-HEROE|3|🥉|Sin usuario|10
+HEROE|1|👑|tecnologo79|100
+HEROE|2|🥈|cell_glob|50
+HEROE|3|🥉|Sin usuario|0
 
 # --- IMPULSORES DEL MES (TOP 20 ROTATIVO) ---
 MENSUAL|4|⭐|Sin usuario|0
@@ -28,4 +28,5 @@ MENSUAL|20|⭐|Sin usuario|0
 MENSUAL|21|⭐|Sin usuario|0
 MENSUAL|22|⭐|Sin usuario|0
 MENSUAL|23|⭐|Sin usuario|0
+
 
