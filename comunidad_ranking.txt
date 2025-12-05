@@ -5,18 +5,18 @@
 # --- HEROES DEL DESARROLLO (TOP 3 HISTÓRICO) ---
 HEROE|1|👑|tecnologo79|100
 HEROE|2|🥈|cell_glob|50
-HEROE|3|🥉|wufengyan|20
+HEROE|3|🥉|And-sdn|40
 
 # --- IMPULSORES DEL MES (TOP 20 ROTATIVO) ---
-MENSUAL|4|⭐|lekobh|10
-MENSUAL|5|⭐|Sin usuario|0
-MENSUAL|6|⭐|Sin usuario|0
-MENSUAL|7|⭐|Sin usuario|0
-MENSUAL|8|⭐|Sin usuario|0
-MENSUAL|9|⭐|Sin usuario|0
-MENSUAL|10|⭐|Sin usuario|0
-MENSUAL|11|⭐|Sin usuario|0
-MENSUAL|12|⭐|Sin usuario|0
+MENSUAL|4|⭐|Andro44|30
+MENSUAL|5|⭐|Alex_K001|30
+MENSUAL|6|⭐|RoniKorCell|30
+MENSUAL|7|⭐|MundoCellEsp|30
+MENSUAL|8|⭐|Tecnic01_PE|30
+MENSUAL|9|⭐|ServiTechPE|30
+MENSUAL|10|⭐|ZonaT1Ar|20
+MENSUAL|11|⭐|wufengyan|20
+MENSUAL|12|⭐|lekobh|10
 MENSUAL|13|⭐|Sin usuario|0
 MENSUAL|14|⭐|Sin usuario|0
 MENSUAL|15|⭐|Sin usuario|0
@@ -28,6 +28,7 @@ MENSUAL|20|⭐|Sin usuario|0
 MENSUAL|21|⭐|Sin usuario|0
 MENSUAL|22|⭐|Sin usuario|0
 MENSUAL|23|⭐|Sin usuario|0
+
 
 
 
